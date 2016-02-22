@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Week2App</string>
+    <string name="intro">Welcome to Mad Libs! When you start, you will be asked to fill in several different words. These will be used to create a fun story! Try out many different words for hilarious results!</string>
+    <string name="instructions">Give me the different words I need to finish the story!</string>
+    <string name="words">Only %1$s words left!</string>
+</resources>
